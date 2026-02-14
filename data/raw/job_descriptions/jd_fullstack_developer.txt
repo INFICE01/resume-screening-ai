@@ -1,0 +1,13 @@
+Position: Full Stack Developer
+
+Responsibilities:
+- Develop both frontend and backend components of web applications
+- Implement REST APIs and integrate with databases
+- Collaborate on UI/UX design and deployment
+- Ensure application security and performance
+
+Required Skills:
+- Node.js, Express.js, MongoDB
+- HTML, CSS, JavaScript, React
+- API development and integration
+- Familiarity with version control and deployment

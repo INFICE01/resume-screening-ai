@@ -1,0 +1,1 @@
+position full stack developer responsibility develop frontend backend component web application implement rest apis integrate database collaborate uiux design deployment ensure application security performance required skill nodejs expressjs mongodb html cs javascript react api development integration familiarity version control deployment

@@ -1,0 +1,13 @@
+Position: Backend Developer
+
+Responsibilities:
+- Develop and maintain RESTful APIs and backend services
+- Integrate databases and optimize queries for performance
+- Collaborate with frontend developers to implement features
+- Ensure security and scalability of backend systems
+
+Required Skills:
+- Node.js, Express.js
+- MongoDB or SQL
+- API development and integration
+- Version control with Git

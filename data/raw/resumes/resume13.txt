@@ -1,0 +1,6 @@
+Name: Aditya Malhotra
+Email: aditya.malhotra@example.com
+Phone: 345-777-8901
+Skills: JavaScript, HTML, CSS, Vue.js
+Experience: Developed dynamic web applications; Optimized front-end performance
+Education: B.Tech in Computer Science

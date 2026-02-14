@@ -1,0 +1,6 @@
+Name: Ananya Gupta
+Email: ananya.gupta@example.com
+Phone: 012-345-6789
+Skills: Python, Machine Learning, TensorFlow, Keras
+Experience: Built neural network models for image classification; Evaluated model performance using accuracy metrics
+Education: B.Tech in Computer Science

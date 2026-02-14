@@ -1,0 +1,6 @@
+Name: Neha Sharma
+Email: neha.sharma@example.com
+Phone: 678-901-2345
+Skills: Python, NLP, NLTK, Pandas
+Experience: Built resume parsing and text classification systems; Conducted sentiment analysis
+Education: B.Tech in Computer Science

@@ -1,0 +1,6 @@
+Name: Aman Singh
+Email: aman.singh@example.com
+Phone: 567-890-1234
+Skills: Node.js, Express.js, MongoDB, REST APIs
+Experience: Developed backend systems for web applications; Implemented database schema design
+Education: B.Tech in Computer Science

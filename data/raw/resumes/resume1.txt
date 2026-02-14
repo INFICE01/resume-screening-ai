@@ -1,0 +1,6 @@
+Name: John Doe
+Email: john.doe@example.com
+Phone: 123-456-7890
+Skills: Python, Machine Learning, Scikit-learn, Pandas, NumPy
+Experience: Built fraud detection model using scikit-learn; Analyzed sales data for insights
+Education: B.Tech in Computer Science

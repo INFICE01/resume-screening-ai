@@ -1,0 +1,6 @@
+Name: Jane Smith
+Email: jane.smith@example.com
+Phone: 234-567-8901
+Skills: Java, Spring Boot, REST APIs, MySQL
+Experience: Developed backend REST APIs for e-commerce application; Optimized database queries
+Education: B.Tech in Computer Science

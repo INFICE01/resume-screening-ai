@@ -1,0 +1,6 @@
+Name: Sakshi Agarwal
+Email: sakshi.agarwal@example.com
+Phone: 456-888-9012
+Skills: Python, NLP, Scikit-learn, Text Mining
+Experience: Built document classification models; Parsed resumes and extracted key skills
+Education: B.Tech in Computer Science

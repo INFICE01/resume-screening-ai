@@ -1,0 +1,1 @@
+name john doe email johndoeexamplecom phone skill python machine learning scikitlearn panda numpy experience built fraud detection model using scikitlearn analyzed sale data insight education btech computer science

@@ -1,0 +1,1 @@
+position backend developer responsibility develop maintain restful apis backend service integrate database optimize query performance collaborate frontend developer implement feature ensure security scalability backend system required skill nodejs expressjs mongodb sql api development integration version control git

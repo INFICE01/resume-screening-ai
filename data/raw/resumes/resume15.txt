@@ -1,0 +1,6 @@
+Name: Arjun Reddy
+Email: arjun.reddy@example.com
+Phone: 567-999-0123
+Skills: C++, Java, Data Structures, Algorithms
+Experience: Developed sorting and searching algorithms; Built a mini OS simulator
+Education: B.Tech in Computer Science

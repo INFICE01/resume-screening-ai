@@ -1,0 +1,6 @@
+Name: Tanya Khanna
+Email: tanya.khanna@example.com
+Phone: 234-666-7890
+Skills: Python, Pandas, NumPy, Data Analysis
+Experience: Performed exploratory data analysis; Built interactive dashboards for business insights
+Education: B.Sc in Mathematics

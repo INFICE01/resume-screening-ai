@@ -1,0 +1,6 @@
+Name: Meera Nair
+Email: meera.nair@example.com
+Phone: 678-000-1234
+Skills: Node.js, Express.js, MongoDB, REST APIs
+Experience: Developed backend services for e-commerce platform; Designed database schemas
+Education: B.Tech in Information Technology

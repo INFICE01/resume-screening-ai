@@ -1,0 +1,21 @@
+Resume,Semantic_Score,Skill_Match_Score,Final_Score,Matched_Skills,Missing_Skills
+resume17.txt,0.382,1.0,0.753,"machine learning, tensorflow, python",
+resume10.txt,0.309,1.0,0.724,"machine learning, tensorflow, python",
+resume1.txt,0.321,0.667,0.528,"machine learning, python",tensorflow
+resume12.txt,0.139,0.333,0.256,python,"machine learning, tensorflow"
+resume4.txt,0.1,0.333,0.24,python,"machine learning, tensorflow"
+resume14.txt,0.09,0.333,0.236,python,"machine learning, tensorflow"
+resume20.txt,0.072,0.333,0.229,python,"machine learning, tensorflow"
+resume8.txt,0.044,0.333,0.217,python,"machine learning, tensorflow"
+resume6.txt,0.037,0.333,0.215,python,"machine learning, tensorflow"
+resume19.txt,0.029,0.333,0.212,python,"machine learning, tensorflow"
+resume15.txt,0.031,0.0,0.013,,"machine learning, tensorflow, python"
+resume13.txt,0.03,0.0,0.012,,"machine learning, tensorflow, python"
+resume7.txt,0.031,0.0,0.012,,"machine learning, tensorflow, python"
+resume5.txt,0.02,0.0,0.008,,"machine learning, tensorflow, python"
+resume16.txt,0.018,0.0,0.007,,"machine learning, tensorflow, python"
+resume2.txt,0.018,0.0,0.007,,"machine learning, tensorflow, python"
+resume9.txt,0.018,0.0,0.007,,"machine learning, tensorflow, python"
+resume11.txt,0.004,0.0,0.002,,"machine learning, tensorflow, python"
+resume18.txt,0.004,0.0,0.002,,"machine learning, tensorflow, python"
+resume3.txt,0.004,0.0,0.002,,"machine learning, tensorflow, python"

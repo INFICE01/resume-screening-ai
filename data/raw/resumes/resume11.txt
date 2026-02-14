@@ -1,0 +1,6 @@
+Name: Vikram Desai
+Email: vikram.desai@example.com
+Phone: 123-555-6789
+Skills: React, Node.js, Express.js, MongoDB
+Experience: Full-stack development of web applications; Implemented REST APIs and connected with frontend
+Education: B.Tech in Information Technology

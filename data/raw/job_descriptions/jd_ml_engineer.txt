@@ -1,0 +1,13 @@
+Position: Machine Learning Engineer
+
+Responsibilities:
+- Develop and deploy machine learning models for predictive analytics
+- Analyze large datasets to extract insights
+- Collaborate with data engineers and backend teams
+- Optimize model performance and accuracy
+
+Required Skills:
+- Python, Scikit-learn, Pandas, NumPy
+- TensorFlow or Keras
+- Data preprocessing and feature engineering
+- Understanding of supervised and unsupervised learning

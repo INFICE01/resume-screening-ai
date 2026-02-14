@@ -1,0 +1,6 @@
+Name: Isha Verma
+Email: isha.verma@example.com
+Phone: 890-222-3456
+Skills: HTML, CSS, JavaScript, Angular
+Experience: Developed responsive web pages; Implemented dynamic UI components
+Education: B.Tech in Information Technology

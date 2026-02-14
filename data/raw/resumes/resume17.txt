@@ -1,0 +1,6 @@
+Name: Rohan Kapoor
+Email: rohan.kapoor@example.com
+Phone: 789-111-2345
+Skills: Python, TensorFlow, Keras, Machine Learning
+Experience: Built ML models for predictive analytics; Evaluated model accuracy and F1-score
+Education: B.Tech in Computer Science

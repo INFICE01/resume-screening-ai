@@ -1,0 +1,6 @@
+Name: Siddharth Roy
+Email: siddharth.roy@example.com
+Phone: 901-234-5678
+Skills: Java, Hibernate, Spring Boot, MySQL
+Experience: Developed backend services for banking applications; Optimized SQL queries
+Education: B.Tech in Computer Science

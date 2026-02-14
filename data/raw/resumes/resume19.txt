@@ -1,0 +1,6 @@
+Name: Sameer Khan
+Email: sameer.khan@example.com
+Phone: 901-333-4567
+Skills: Python, Flask, REST APIs, SQL
+Experience: Developed backend APIs for data-driven applications; Integrated APIs with frontend dashboards
+Education: B.Tech in Computer Science

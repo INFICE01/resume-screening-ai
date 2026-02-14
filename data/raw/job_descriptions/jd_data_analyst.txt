@@ -1,0 +1,13 @@
+Position: Data Analyst
+
+Responsibilities:
+- Collect, clean, and analyze datasets for business insights
+- Create dashboards and visualizations for management
+- Perform exploratory data analysis to identify trends
+- Collaborate with teams to support data-driven decisions
+
+Required Skills:
+- Python, Pandas, NumPy
+- SQL and database querying
+- Tableau, Excel, or Power BI
+- Strong analytical and problem-solving skills

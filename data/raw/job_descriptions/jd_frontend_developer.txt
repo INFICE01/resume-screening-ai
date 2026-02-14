@@ -1,0 +1,13 @@
+Position: Frontend Developer
+
+Responsibilities:
+- Build responsive and dynamic web applications
+- Implement UI components with reusable code
+- Collaborate with backend teams to consume APIs
+- Optimize web applications for speed and scalability
+
+Required Skills:
+- HTML, CSS, JavaScript
+- React, Redux, or Angular
+- Version control with Git
+- Understanding of responsive design principles

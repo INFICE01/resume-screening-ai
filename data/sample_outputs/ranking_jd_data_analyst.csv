@@ -1,0 +1,21 @@
+Resume,Semantic_Score,Skill_Match_Score,Final_Score,Matched_Skills,Missing_Skills
+resume4.txt,0.223,1.0,0.689,"sql, python",
+resume19.txt,0.112,1.0,0.645,"sql, python",
+resume12.txt,0.291,0.5,0.416,python,sql
+resume20.txt,0.27,0.5,0.408,python,sql
+resume1.txt,0.12,0.5,0.348,python,sql
+resume8.txt,0.077,0.5,0.331,python,sql
+resume6.txt,0.069,0.5,0.328,python,sql
+resume9.txt,0.033,0.5,0.313,sql,python
+resume14.txt,0.026,0.5,0.311,python,sql
+resume17.txt,0.019,0.5,0.308,python,sql
+resume10.txt,0.017,0.5,0.307,python,sql
+resume15.txt,0.038,0.0,0.015,,"sql, python"
+resume7.txt,0.037,0.0,0.015,,"sql, python"
+resume5.txt,0.033,0.0,0.013,,"sql, python"
+resume16.txt,0.03,0.0,0.012,,"sql, python"
+resume2.txt,0.029,0.0,0.012,,"sql, python"
+resume13.txt,0.009,0.0,0.004,,"sql, python"
+resume11.txt,0.009,0.0,0.003,,"sql, python"
+resume18.txt,0.008,0.0,0.003,,"sql, python"
+resume3.txt,0.008,0.0,0.003,,"sql, python"

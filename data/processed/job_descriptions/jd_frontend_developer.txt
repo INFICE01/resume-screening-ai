@@ -1,0 +1,1 @@
+position frontend developer responsibility build responsive dynamic web application implement ui component reusable code collaborate backend team consume apis optimize web application speed scalability required skill html cs javascript react redux angular version control git understanding responsive design principle

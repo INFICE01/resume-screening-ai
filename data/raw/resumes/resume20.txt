@@ -1,0 +1,6 @@
+Name: Pooja Sharma
+Email: pooja.sharma@example.com
+Phone: 012-444-5678
+Skills: Data Analysis, Python, Tableau, Excel
+Experience: Built interactive business dashboards; Conducted data visualization and reporting
+Education: B.Sc in Statistics

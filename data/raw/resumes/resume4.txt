@@ -1,0 +1,6 @@
+Name: Priya Kapoor
+Email: priya.kapoor@example.com
+Phone: 456-789-0123
+Skills: Data Analysis, Python, SQL, Tableau
+Experience: Conducted data visualization for business analytics; Automated reporting pipelines
+Education: B.Sc in Statistics

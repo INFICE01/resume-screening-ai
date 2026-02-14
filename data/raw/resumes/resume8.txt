@@ -1,0 +1,6 @@
+Name: Riya Jain
+Email: riya.jain@example.com
+Phone: 890-123-4567
+Skills: Python, Flask, REST APIs, MongoDB
+Experience: Built web APIs for data collection; Connected APIs with frontend dashboards
+Education: B.Tech in Computer Science

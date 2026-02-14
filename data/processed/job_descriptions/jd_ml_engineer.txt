@@ -1,0 +1,1 @@
+position machine learning engineer responsibility develop deploy machine learning model predictive analytics analyze large datasets extract insight collaborate data engineer backend team optimize model performance accuracy required skill python scikitlearn panda numpy tensorflow kera data preprocessing feature engineering understanding supervised unsupervised learning
